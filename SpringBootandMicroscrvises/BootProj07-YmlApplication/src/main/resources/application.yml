@@ -1,0 +1,7 @@
+#cutomer information
+ cust:
+  info:
+   custNo: 101
+   custName: raja
+   custAddrs: hyd
+   billAmt: 5678.55

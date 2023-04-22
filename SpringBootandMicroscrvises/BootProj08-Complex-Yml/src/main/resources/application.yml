@@ -1,0 +1,33 @@
+#Employee info 
+org:
+ nit:
+  #for simple properties
+   eno: 101
+   ename: rajesh
+   # for array property
+   favColors:
+      -red
+      -blue
+      -green
+   # for list collection
+   nickName:
+       -chinna
+       -munna
+       -kanna
+   # for set collection
+   phoneNumber:
+        -99999999
+        -88888888
+        -77777777
+   # for map collection
+   idDeatails:
+       aadhar: 989898998
+       voter: 88854ADG
+       panNo: 45577AA
+   #for HAS-A property
+   company:
+       id: 89012
+       name: HCL
+       addrs: hyd
+       size: 300
+       

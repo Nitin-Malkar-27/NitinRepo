@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    dbcp2:
+      max-conn-lifetime-millis: '100000'
+      intial-size: 10
+      max-total: 100
+    url: 'jdbc:mysql:'
+    password: root
+  username: system
+  url: jdbc:oracle:thin:@localhost:1521:xe
+  password: tiger
+  
